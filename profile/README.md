@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 com.elparadisogonzalo.app
-> A scalable, production-ready application built with modern technologies embedded with large language model ai named elparadisogonzalo ai.
+> A scalable, production-ready application built with modern technologies.
 </div>
 ---
 ## ✨ Overview
@@ -100,4 +100,3 @@ Apache-2.0 License
 Made with ❤️ by azeh agowa
 
 </div> 
-
